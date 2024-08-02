@@ -1,4 +1,5 @@
 1-) Git Kullanarak magiski çek 
+\n
 code:
 git clone -c core.symlinks=true --recurse-submodules https://github.com/topjohnwu/Magisk.git
 2-) Git'in symlink desteğini kontrol edin:
